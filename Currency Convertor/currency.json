@@ -1,0 +1,2157 @@
+{
+  "USD": {
+    "symbol": "$",
+    "name": "US Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "USD",
+    "name_plural": "US dollars",
+    "facts": [
+      "The US Dollar is the most widely used currency in the world and the world's primary reserve currency..",
+      "The US Dollar is often referred to as the 'Greenback'.",
+      "The symbol '$' is derived from the Spanish Peso, which was widely used in the Americas.",
+      "The US Dollar is the official currency of 11 countries.",
+      ""
+    ],
+    "flagcode": "us"
+  },
+  "CAD": {
+    "symbol": "CA$",
+    "name": "Canadian Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "CAD",
+    "name_plural": "Canadian dollars",
+    "facts": [
+      "The Canadian Dollar is nicknamed the 'Loonie' due to the loon bird on the $1 coin.",
+      "Canada was the first country to use polymer banknotes.",
+      "The $1 and $2 bills were replaced by coins in 1987 and 1996, respectively.",
+      "Canada's banknotes feature tactile marks for the visually impaired.",
+      "The Canadian Dollar is often used as a benchmark for oil prices."
+    ],
+    "flagcode": "ca"
+  },
+  "EUR": {
+    "symbol": "€",
+    "name": "Euro",
+    "symbol_native": "€",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "EUR",
+    "name_plural": "euros",
+    "facts": [
+      "The Euro is used by 20 of the 27 European Union countries.",
+      "The Euro banknotes are identical across all member countries.",
+      "Each Euro coin has a common side and a country-specific side.",
+      "The Euro is the second most traded currency in the world.",
+      "The €500 note was discontinued in 2019 to combat illegal activities."
+    ],
+    "flagcode": "eu"
+  },
+  "AED": {
+    "symbol": "AED",
+    "name": "United Arab Emirates Dirham",
+    "symbol_native": "د.إ.‏",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "AED",
+    "name_plural": "UAE dirhams",
+    "facts": [
+      "The UAE Dirham was introduced in 1973, replacing the Qatar and Dubai Riyal.",
+      "The word 'Dirham' comes from the Greek word 'Drachma'.",
+      "Coins in the UAE feature traditional symbols like coffee pots and gazelles.",
+      "The AED is pegged to the US Dollar at a fixed rate.",
+      "The UAE Dirham is used in all seven emirates of the UAE."
+    ],
+    "flagcode": "ae"
+  },
+  "AFN": {
+    "symbol": "Af",
+    "name": "Afghan Afghani",
+    "symbol_native": "؋",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "AFN",
+    "name_plural": "Afghan Afghanis",
+    "facts": [
+      "The Afghan Afghani was introduced in 1925, replacing the Afghan rupee.",
+      "The symbol '؋' is unique to the Afghan Afghani.",
+      "Afghanistan issued its first polymer banknotes in 2004.",
+      "The Afghani is subdivided into 100 puls.",
+      "The Afghan Central Bank is responsible for issuing and regulating the Afghani."
+    ],
+    "flagcode": "af"
+  },
+  "ALL": {
+    "symbol": "ALL",
+    "name": "Albanian Lek",
+    "symbol_native": "Lek",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "ALL",
+    "name_plural": "Albanian lekë",
+    "facts": [
+      "The Albanian Lek was introduced in 1926.",
+      "The name 'Lek' is derived from Alexander the Great's name.",
+      "Lek coins feature images of Albania's national heroes.",
+      "The Lek is subdivided into 100 qindarka.",
+      "The Lek is used only in Albania and is not traded internationally."
+    ],
+    "flagcode": "al"
+  },
+  "AMD": {
+    "symbol": "AMD",
+    "name": "Armenian Dram",
+    "symbol_native": "դր.",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "AMD",
+    "name_plural": "Armenian drams",
+    "facts": [
+      "The Armenian Dram was introduced in 1993 after the fall of the Soviet Union.",
+      "The word 'Dram' means 'money' in Armenian.",
+      "Armenian banknotes feature cultural and historical figures.",
+      "The Dram is subdivided into 100 luma.",
+      "The Armenian Central Bank is responsible for issuing the Dram."
+    ],
+    "flagcode": "am"
+  },
+  "ARS": {
+    "symbol": "AR$",
+    "name": "Argentine Peso",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "ARS",
+    "name_plural": "Argentine pesos",
+    "facts": [
+      "The Argentine Peso was introduced in 1992.",
+      "The symbol '$' is shared with the US Dollar.",
+      "Banknotes feature images of Argentina's national heroes.",
+      "Argentina's 1,000 Peso note features a bird called the Rufous Hornero, the national bird of Argentina.",
+      "The Argentine Peso has undergone several redenominations due to inflation."
+    ],
+    "flagcode": "ar"
+  },
+  "AUD": {
+    "symbol": "AU$",
+    "name": "Australian Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "AUD",
+    "name_plural": "Australian dollars",
+    "facts": [
+      "Australia was the first country to introduce polymer banknotes in 1988.",
+      "The $2 coin is smaller than the $1 coin.",
+      "The Australian Dollar is nicknamed the 'Aussie'.",
+      "The Australian $50 note features Edith Cowan, the first woman elected to an Australian parliament.",
+      "The Australian Dollar is one of the top 5 most traded currencies in the world."
+    ],
+    "flagcode": "au"
+  },
+  "AZN": {
+    "symbol": "man.",
+    "name": "Azerbaijani Manat",
+    "symbol_native": "ман.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "AZN",
+    "name_plural": "Azerbaijani manats",
+    "facts": [
+      "The Azerbaijani Manat was reintroduced in 2006 after redenomination.",
+      "The word 'Manat' is derived from the Latin word 'Moneta'.",
+      "Azerbaijan's banknotes feature cultural and historical themes.",
+      "The Manat is subdivided into 100 qepik.",
+      "The Azerbaijani Manat is one of the most stable currencies in the region."
+    ],
+    "flagcode": "az"
+  },
+  "BAM": {
+    "symbol": "KM",
+    "name": "Bosnia-Herzegovina Convertible Mark",
+    "symbol_native": "KM",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "BAM",
+    "name_plural": "Bosnia-Herzegovina convertible marks",
+    "facts": [
+      "The Bosnia-Herzegovina Convertible Mark is pegged to the Euro.",
+      "The currency's name comes from the German Mark, which it replaced.",
+      "Banknotes feature images of famous Bosnian landmarks.",
+      "The Convertible Mark is abbreviated as 'KM' in Bosnian.",
+      "Coins are issued in denominations of 5, 10, 20, and 50 fenings."
+    ],
+    "flagcode": "ba"
+  },
+  "BDT": {
+    "symbol": "Tk",
+    "name": "Bangladeshi Taka",
+    "symbol_native": "৳",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "BDT",
+    "name_plural": "Bangladeshi takas",
+    "facts": [
+      "The Bangladeshi Taka was introduced in 1972 after independence.",
+      "The word 'Taka' means 'money' in Bengali.",
+      "Bangladesh was one of the first countries to issue polymer banknotes.",
+      "The Taka is subdivided into 100 poisha.",
+      "Bangladeshi banknotes feature images of national monuments and leaders."
+    ],
+    "flagcode": "bd"
+  },
+  "BGN": {
+    "symbol": "BGN",
+    "name": "Bulgarian Lev",
+    "symbol_native": "лв.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "BGN",
+    "name_plural": "Bulgarian leva",
+    "facts": [
+      "The Bulgarian Lev is pegged to the Euro at a fixed rate.",
+      "The word 'Lev' means 'lion' in Bulgarian.",
+      "Bulgarian banknotes feature famous cultural and historical figures.",
+      "The Lev is subdivided into 100 stotinki.",
+      "Bulgaria plans to adopt the Euro in the future."
+    ],
+    "flagcode": "bg"
+  },
+  "BHD": {
+    "symbol": "BD",
+    "name": "Bahraini Dinar",
+    "symbol_native": "د.ب.‏",
+    "decimal_digits": 3,
+    "rounding": 0,
+    "code": "BHD",
+    "name_plural": "Bahraini dinars",
+    "facts": [
+      "The Bahraini Dinar is one of the highest-valued currencies in the world.",
+      "The Dinar is subdivided into 1,000 fils.",
+      "Bahrain introduced its currency in 1965, replacing the Gulf Rupee.",
+      "Coins feature traditional Bahraini symbols like palm trees and dhows.",
+      "The Bahraini Dinar is pegged to the US Dollar."
+    ],
+    "flagcode": "bh"
+  },
+  "BIF": {
+    "symbol": "FBu",
+    "name": "Burundian Franc",
+    "symbol_native": "FBu",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "BIF",
+    "name_plural": "Burundian francs",
+    "facts": [
+      "The Burundian Franc was introduced in 1964, replacing the Belgian Congo Franc.",
+      "The Franc is subdivided into 100 centimes, though centime coins are no longer used.",
+      "Burundi's banknotes feature images of local wildlife and cultural symbols.",
+      "The Franc is abbreviated as 'FBu' in Burundi.",
+      "Coins are rarely used in everyday transactions in Burundi."
+    ],
+    "flagcode": "bi"
+  },
+  "BND": {
+    "symbol": "BN$",
+    "name": "Brunei Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "BND",
+    "name_plural": "Brunei dollars",
+    "facts": [
+      "The Brunei Dollar is interchangeable with the Singapore Dollar at par.",
+      "Brunei's banknotes feature images of the Sultan and national landmarks.",
+      "The currency is abbreviated as 'B$' locally.",
+      "The Brunei Dollar was introduced in 1967, replacing the Malaya and British Borneo Dollar.",
+      "Brunei issues polymer banknotes for durability."
+    ],
+    "flagcode": "bn"
+  },
+  "BOB": {
+    "symbol": "Bs",
+    "name": "Bolivian Boliviano",
+    "symbol_native": "Bs",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "BOB",
+    "name_plural": "Bolivian bolivianos",
+    "facts": [
+      "The Bolivian Boliviano was introduced in 1987, replacing the Peso Boliviano.",
+      "The currency is named after Simón Bolívar, a South American independence leader.",
+      "The Boliviano is subdivided into 100 centavos.",
+      "Bolivian banknotes feature images of national heroes and landmarks.",
+      "Coins are issued in denominations of 10, 20, and 50 centavos, and 1, 2, and 5 Bolivianos."
+    ],
+    "flagcode": "bo"
+  },
+  "BRL": {
+    "symbol": "R$",
+    "name": "Brazilian Real",
+    "symbol_native": "R$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "BRL",
+    "name_plural": "Brazilian reals",
+    "facts": [
+      "The Brazilian Real was introduced in 1994 as part of an economic stabilization plan.",
+      "The word 'Real' means 'royal' in Portuguese.",
+      "Brazilian banknotes feature images of wildlife and cultural symbols.",
+      "The Real is subdivided into 100 centavos.",
+      "Brazil's banknotes are printed with tactile features for the visually impaired."
+    ],
+    "flagcode": "br"
+  },
+  "BWP": {
+    "symbol": "BWP",
+    "name": "Botswanan Pula",
+    "symbol_native": "P",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "BWP",
+    "name_plural": "Botswanan pulas",
+    "facts": [
+      "The Botswanan Pula was introduced in 1976, replacing the South African Rand.",
+      "The word 'Pula' means 'rain' in Setswana, symbolizing its value.",
+      "The Pula is subdivided into 100 thebe, which means 'shield' in Setswana.",
+      "Botswana's banknotes feature images of local wildlife and leaders.",
+      "The Pula is one of the strongest currencies in Africa."
+    ],
+    "flagcode": "bw"
+  },
+  "BYN": {
+    "symbol": "Br",
+    "name": "Belarusian Ruble",
+    "symbol_native": "руб.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "BYN",
+    "name_plural": "Belarusian rubles",
+    "facts": [
+      "The Belarusian Ruble was redenominated in 2016, removing four zeros.",
+      "The Ruble is subdivided into 100 kopecks.",
+      "Belarusian banknotes feature images of architectural landmarks.",
+      "Coins were introduced in Belarus for the first time in 2016.",
+      "The Ruble is abbreviated as 'Br' in Belarus."
+    ],
+    "flagcode": "by"
+  },
+  "BZD": {
+    "symbol": "BZ$",
+    "name": "Belize Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "BZD",
+    "name_plural": "Belize dollars",
+    "facts": [
+      "The Belize Dollar is pegged to the US Dollar at a fixed rate of 2:1.",
+      "Belize's banknotes feature images of Queen Elizabeth II.",
+      "The currency is abbreviated as 'BZ$' locally.",
+      "The Belize Dollar was introduced in 1973, replacing the British Honduras Dollar.",
+      "Coins are issued in denominations of 1, 5, 10, 25, and 50 cents, and 1 Dollar."
+    ],
+    "flagcode": "bz"
+  },
+  "CDF": {
+    "symbol": "CDF",
+    "name": "Congolese Franc",
+    "symbol_native": "FrCD",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "CDF",
+    "name_plural": "Congolese francs",
+    "facts": [
+      "The Congolese Franc was introduced in 1997, replacing the Zaire.",
+      "The Franc is subdivided into 100 centimes.",
+      "Congolese banknotes feature images of local wildlife and cultural symbols.",
+      "Coins are rarely used in everyday transactions in the Democratic Republic of Congo.",
+      "The Franc is abbreviated as 'CDF' internationally."
+    ],
+    "flagcode": "cd"
+  },
+  "CHF": {
+    "symbol": "CHF",
+    "name": "Swiss Franc",
+    "symbol_native": "CHF",
+    "decimal_digits": 2,
+    "rounding": 0.05,
+    "code": "CHF",
+    "name_plural": "Swiss francs",
+    "facts": [
+      "The Swiss Franc is the only Franc still issued in Europe.",
+      "Swiss banknotes feature images of cultural and scientific achievements.",
+      "The Franc is subdivided into 100 centimes.",
+      "Switzerland issues some of the most secure banknotes in the world.",
+      "The Swiss Franc is considered a safe-haven currency."
+    ],
+    "flagcode": "ch"
+  },
+  "CLP": {
+    "symbol": "CL$",
+    "name": "Chilean Peso",
+    "symbol_native": "$",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "CLP",
+    "name_plural": "Chilean pesos",
+    "facts": [
+      "The Chilean Peso was introduced in 1975, replacing the Escudo.",
+      "The Peso is subdivided into 100 centavos, though centavo coins are no longer used.",
+      "Chilean banknotes feature images of national heroes and landmarks.",
+      "The currency is abbreviated as 'CLP' internationally.",
+      "Coins are issued in denominations of 1, 5, 10, 50, 100, and 500 Pesos."
+    ],
+    "flagcode": "cl"
+  },
+  "CNY": {
+    "symbol": "CN¥",
+    "name": "Chinese Yuan",
+    "symbol_native": "¥",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "CNY",
+    "name_plural": "Chinese yuan",
+    "facts": [
+      "The Chinese Yuan is also known as 'Renminbi', meaning 'people's currency'.",
+      "The Yuan is subdivided into 10 jiao and 100 fen.",
+      "Chinese banknotes feature images of Mao Zedong and cultural landmarks.",
+      "The Yuan is abbreviated as 'CNY' internationally.",
+      "China issues polymer banknotes for higher denominations."
+    ],
+    "flagcode": "cn"
+  },
+  "COP": {
+    "symbol": "CO$",
+    "name": "Colombian Peso",
+    "symbol_native": "$",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "COP",
+    "name_plural": "Colombian pesos",
+    "facts": [
+      "The Colombian Peso was introduced in 1810, replacing the Real.",
+      "The Peso is subdivided into 100 centavos.",
+      "Colombian banknotes feature images of national heroes and cultural symbols.",
+      "The currency is abbreviated as 'COP' internationally.",
+      "Coins are issued in denominations of 50, 100, 200, 500, and 1,000 Pesos."
+    ],
+    "flagcode": "co"
+  },
+  "CRC": {
+    "symbol": "₡",
+    "name": "Costa Rican Colón",
+    "symbol_native": "₡",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "CRC",
+    "name_plural": "Costa Rican colóns",
+    "facts": [
+      "The Costa Rican Colón is named after Christopher Columbus (Cristóbal Colón in Spanish).",
+      "The Colón is subdivided into 100 céntimos.",
+      "Costa Rican banknotes feature images of the country's biodiversity, including sloths and sharks.",
+      "The Colón was introduced in 1896, replacing the Costa Rican Peso.",
+      "Coins are issued in denominations ranging from 5 to 500 Colones."
+    ],
+    "flagcode": "cr"
+  },
+  "CVE": {
+    "symbol": "CV$",
+    "name": "Cape Verdean Escudo",
+    "symbol_native": "CV$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "CVE",
+    "name_plural": "Cape Verdean escudos",
+    "facts": [
+      "The Cape Verdean Escudo is pegged to the Euro at a fixed rate.",
+      "The Escudo is subdivided into 100 centavos.",
+      "Cape Verdean coins feature images of local flora and fauna.",
+      "The currency is abbreviated as 'CVE' internationally.",
+      "The Escudo was introduced in 1914, replacing the Portuguese Real."
+    ],
+    "flagcode": "cv"
+  },
+  "CZK": {
+    "symbol": "Kč",
+    "name": "Czech Republic Koruna",
+    "symbol_native": "Kč",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "CZK",
+    "name_plural": "Czech Republic korunas",
+    "facts": [
+      "The Czech Koruna was introduced in 1993 after the split of Czechoslovakia.",
+      "The word 'Koruna' means 'crown' in Czech.",
+      "Czech banknotes feature famous historical figures like Charles IV and composer Bedřich Smetana.",
+      "The Koruna is subdivided into 100 haléřů, though haléř coins are no longer used.",
+      "The Czech Republic has not adopted the Euro despite being an EU member."
+    ],
+    "flagcode": "cz"
+  },
+  "DJF": {
+    "symbol": "Fdj",
+    "name": "Djiboutian Franc",
+    "symbol_native": "Fdj",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "DJF",
+    "name_plural": "Djiboutian francs",
+    "facts": [
+      "The Djiboutian Franc is pegged to the US Dollar at a fixed rate.",
+      "The Franc is subdivided into 100 centimes, though centime coins are rarely used.",
+      "Djiboutian banknotes feature images of local wildlife and cultural symbols.",
+      "The currency is abbreviated as 'DJF' internationally.",
+      "Coins are issued in denominations of 1, 2, 5, 10, 20, 50, and 100 Francs."
+    ],
+    "flagcode": "dj"
+  },
+  "DKK": {
+    "symbol": "Dkr",
+    "name": "Danish Krone",
+    "symbol_native": "kr",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "DKK",
+    "name_plural": "Danish kroner",
+    "facts": [
+      "The Danish Krone is pegged to the Euro through the ERM II mechanism.",
+      "The word 'Krone' means 'crown' in Danish.",
+      "Danish banknotes feature bridges and prehistoric artifacts.",
+      "The Krone is subdivided into 100 øre, though øre coins are no longer used.",
+      "Denmark has opted out of adopting the Euro despite being an EU member."
+    ],
+    "flagcode": "dk"
+  },
+  "DOP": {
+    "symbol": "RD$",
+    "name": "Dominican Peso",
+    "symbol_native": "RD$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "DOP",
+    "name_plural": "Dominican pesos",
+    "facts": [
+      "The Dominican Peso was introduced in 1844 after the country's independence.",
+      "The Peso is subdivided into 100 centavos.",
+      "Dominican banknotes feature images of national heroes and landmarks.",
+      "The currency is abbreviated as 'DOP' internationally.",
+      "Coins are issued in denominations of 1, 5, 10, and 25 Pesos."
+    ],
+    "flagcode": "do"
+  },
+  "DZD": {
+    "symbol": "DA",
+    "name": "Algerian Dinar",
+    "symbol_native": "د.ج.‏",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "DZD",
+    "name_plural": "Algerian dinars",
+    "facts": [
+      "The Algerian Dinar was introduced in 1964, replacing the Algerian Franc.",
+      "The Dinar is subdivided into 100 centimes.",
+      "Algerian banknotes feature images of historical and cultural landmarks.",
+      "The currency is abbreviated as 'DZD' internationally.",
+      "Coins are issued in denominations of 1, 2, 5, 10, 20, 50, and 100 Dinars."
+    ],
+    "flagcode": "dz"
+  },
+  "EGP": {
+    "symbol": "EGP",
+    "name": "Egyptian Pound",
+    "symbol_native": "ج.م.‏",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "EGP",
+    "name_plural": "Egyptian pounds",
+    "facts": [
+      "The Egyptian Pound is abbreviated as 'LE', which stands for 'Livre Égyptienne'.",
+      "The Pound is subdivided into 100 piastres.",
+      "Egyptian banknotes feature images of ancient monuments like the Sphinx and temples.",
+      "Coins are issued in denominations of 25 and 50 piastres, and 1 Pound.",
+      "The Egyptian Pound is one of the oldest currencies still in use."
+    ],
+    "flagcode": "eg"
+  },
+  "ERN": {
+    "symbol": "Nfk",
+    "name": "Eritrean Nakfa",
+    "symbol_native": "Nfk",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "ERN",
+    "name_plural": "Eritrean nakfas",
+    "facts": [
+      "The Eritrean Nakfa was introduced in 1997, replacing the Ethiopian Birr.",
+      "The Nakfa is named after the town of Nakfa, a symbol of Eritrean resistance.",
+      "The Nakfa is subdivided into 100 cents.",
+      "Eritrean banknotes feature images of cultural and historical significance.",
+      "Coins are issued in denominations of 1, 5, 10, 25, and 50 cents, and 1 Nakfa."
+    ],
+    "flagcode": "er"
+  },
+  "ETH": {
+    "symbol": "Ξ",
+    "name": "Ethereum",
+    "symbol_native": "Ξ",
+    "decimal_digits": 18,
+    "rounding": 0,
+    "code": "ETH",
+    "name_plural": "ethereums",
+    "facts": [
+      "Ethereum introduced the concept of smart contracts, revolutionizing blockchain technology.",
+      "It is the second-largest cryptocurrency by market capitalization after Bitcoin.",
+      "Ether (ETH), the native cryptocurrency of Ethereum, is used to pay for transactions and computational services on the network.",
+      "Ethereum's co-founder, Vitalik Buterin, was only 19 years old when he proposed the platform.",
+      "The Ethereum network transitioned to a proof-of-stake consensus mechanism in 2022, significantly reducing its energy consumption."
+    ],
+    "flagcode": "ethereum-eth-"
+  },
+  "ETB": {
+    "symbol": "Br",
+    "name": "Ethiopian Birr",
+    "symbol_native": "Br",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "ETB",
+    "name_plural": "Ethiopian birrs",
+    "facts": [
+      "The Ethiopian Birr is one of the oldest currencies in Africa.",
+      "The Birr is subdivided into 100 santim.",
+      "Ethiopian banknotes feature images of national landmarks and leaders.",
+      "The currency is abbreviated as 'ETB' internationally.",
+      "Coins are issued in denominations of 1, 5, 10, 25, and 50 santim, and 1 Birr."
+    ],
+    "flagcode": "et"
+  },
+  "GBP": {
+    "symbol": "£",
+    "name": "British Pound Sterling",
+    "symbol_native": "£",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "GBP",
+    "name_plural": "British pounds sterling",
+    "facts": [
+      "The British Pound Sterling is the oldest currency still in use.",
+      "The Pound is often referred to as 'Quid' in informal contexts.",
+      "British banknotes feature images of Queen Elizabeth II and historical figures.",
+      "The Pound is subdivided into 100 pence.",
+      "The £1 coin was redesigned in 2017 to include advanced security features."
+    ],
+    "flagcode": "gb"
+  },
+  "GEL": {
+    "symbol": "GEL",
+    "name": "Georgian Lari",
+    "symbol_native": "GEL",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "GEL",
+    "name_plural": "Georgian laris",
+    "facts": [
+      "The Georgian Lari was introduced in 1995, replacing the Georgian Coupon.",
+      "The word 'Lari' means 'treasure' in Georgian.",
+      "Georgian banknotes feature images of cultural and historical figures.",
+      "The Lari is subdivided into 100 tetri.",
+      "Coins are issued in denominations of 1, 2, 5, 10, 20, and 50 tetri, and 1 and 2 Lari."
+    ],
+    "flagcode": "ge"
+  },
+  "GHS": {
+    "symbol": "GH₵",
+    "name": "Ghanaian Cedi",
+    "symbol_native": "GH₵",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "GHS",
+    "name_plural": "Ghanaian cedis",
+    "facts": [
+      "The Ghanaian Cedi was introduced in 2007 after redenomination.",
+      "The word 'Cedi' is derived from 'sedie', a local word for cowry shells, which were once used as currency.",
+      "The Cedi is subdivided into 100 pesewas.",
+      "Ghanaian banknotes feature images of the 'Big Six', leaders of Ghana's independence movement.",
+      "Coins are issued in denominations of 1, 5, 10, 20, and 50 pesewas, and 1 Cedi."
+    ],
+    "flagcode": "gh"
+  },
+  "GNF": {
+    "symbol": "FG",
+    "name": "Guinean Franc",
+    "symbol_native": "FG",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "GNF",
+    "name_plural": "Guinean francs",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "gn"
+  },
+  "GTQ": {
+    "symbol": "GTQ",
+    "name": "Guatemalan Quetzal",
+    "symbol_native": "Q",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "GTQ",
+    "name_plural": "Guatemalan quetzals",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "gt"
+  },
+  "HKD": {
+    "symbol": "HK$",
+    "name": "Hong Kong Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "HKD",
+    "name_plural": "Hong Kong dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "hk"
+  },
+  "HNL": {
+    "symbol": "HNL",
+    "name": "Honduran Lempira",
+    "symbol_native": "L",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "HNL",
+    "name_plural": "Honduran lempiras",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "hn"
+  },
+  "HRK": {
+    "symbol": "kn",
+    "name": "Croatian Kuna",
+    "symbol_native": "kn",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "HRK",
+    "name_plural": "Croatian kunas",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "hr"
+  },
+  "HUF": {
+    "symbol": "Ft",
+    "name": "Hungarian Forint",
+    "symbol_native": "Ft",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "HUF",
+    "name_plural": "Hungarian forints",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "hu"
+  },
+  "IDR": {
+    "symbol": "Rp",
+    "name": "Indonesian Rupiah",
+    "symbol_native": "Rp",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "IDR",
+    "name_plural": "Indonesian rupiahs",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "id"
+  },
+  "ILS": {
+    "symbol": "₪",
+    "name": "Israeli New Sheqel",
+    "symbol_native": "₪",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "ILS",
+    "name_plural": "Libyan dinars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "il"
+  },
+  "INR": {
+    "symbol": "₹",
+    "name": "Indian Rupee",
+    "symbol_native": "₹",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "INR",
+    "name_plural": "Indian rupees",
+    "facts": [
+      "The Indian Rupee symbol (₹) was introduced in 2010.",
+      "The word 'Rupee' is derived from the Sanskrit word 'Rupya', meaning silver.",
+      "Mahatma Gandhi's portrait has been featured on all Indian banknotes since 1996."
+    ],
+    "flagcode": "in"
+  },
+  "IQD": {
+    "symbol": "IQD",
+    "name": "Iraqi Dinar",
+    "symbol_native": "د.ع.‏",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "IQD",
+    "name_plural": "Iraqi dinars",
+    "facts": [
+      "The Iraqi Dinar was introduced in 1932, replacing the Indian Rupee.",
+      "The Dinar is subdivided into 1,000 fils, though fils coins are no longer used.",
+      "Iraqi banknotes feature images of historical and cultural landmarks."
+    ],
+    "flagcode": "iq"
+  },
+  "IRR": {
+    "symbol": "IRR",
+    "name": "Iranian Rial",
+    "symbol_native": "﷼",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "IRR",
+    "name_plural": "Iranian rials",
+    "facts": [
+      "The Iranian Rial was introduced in 1932, replacing the Qiran.",
+      "The Rial is subdivided into 100 dinars, though dinar coins are no longer used.",
+      "Iranian banknotes feature images of cultural and religious landmarks."
+    ],
+    "flagcode": "ir"
+  },
+  "ISK": {
+    "symbol": "Ikr",
+    "name": "Icelandic Króna",
+    "symbol_native": "kr",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "ISK",
+    "name_plural": "Icelandic krónur",
+    "facts": [
+      "The Icelandic Króna was introduced in 1922, replacing the Danish Krone.",
+      "The word 'Króna' means 'crown' in Icelandic.",
+      "Icelandic banknotes feature images of historical figures and cultural symbols."
+    ],
+    "flagcode": "is"
+  },
+  "JMD": {
+    "symbol": "J$",
+    "name": "Jamaican Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "JMD",
+    "name_plural": "Jamaican dollars",
+    "facts": [
+      "The Jamaican Dollar was introduced in 1969, replacing the Jamaican Pound.",
+      "The $1 coin features the national hero Marcus Garvey.",
+      "Jamaican banknotes feature images of national heroes and landmarks."
+    ],
+    "flagcode": "jm"
+  },
+  "JOD": {
+    "symbol": "JD",
+    "name": "Jordanian Dinar",
+    "symbol_native": "د.أ.‏",
+    "decimal_digits": 3,
+    "rounding": 0,
+    "code": "JOD",
+    "name_plural": "Jordanian dinars",
+    "facts": [
+      "The Jordanian Dinar was introduced in 1950, replacing the Palestinian Pound.",
+      "The Dinar is subdivided into 1,000 fils.",
+      "Jordanian banknotes feature images of historical and cultural landmarks."
+    ],
+    "flagcode": "jo"
+  },
+  "JPY": {
+    "symbol": "¥",
+    "name": "Japanese Yen",
+    "symbol_native": "￥",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "JPY",
+    "name_plural": "Japanese yen",
+    "facts": [
+      "The Japanese Yen is the third most traded currency in the world.",
+      "The Yen is subdivided into 100 sen, though sen coins are no longer used.",
+      "Japanese banknotes feature images of cultural and historical figures."
+    ],
+    "flagcode": "jp"
+  },
+  "KES": {
+    "symbol": "KSh",
+    "name": "Kenyan Shilling",
+    "symbol_native": "KSh",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "KES",
+    "name_plural": "Kenyan shillings",
+    "facts": [
+      "The Kenyan Shilling was introduced in 1966, replacing the East African Shilling.",
+      "The Shilling is subdivided into 100 cents.",
+      "Kenyan banknotes feature images of national heroes and landmarks."
+    ],
+    "flagcode": "ke"
+  },
+  "KMF": {
+    "symbol": "CF",
+    "name": "Comorian Franc",
+    "symbol_native": "CF",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "KMF",
+    "name_plural": "Comorian francs",
+    "facts": [
+      "The Comorian Franc is pegged to the Euro at a fixed rate.",
+      "The Franc is subdivided into 100 centimes, though centime coins are rarely used.",
+      "Comorian banknotes feature images of local flora and fauna."
+    ],
+    "flagcode": "km"
+  },
+  "KHR": {
+    "symbol": "៛",
+    "name": "Cambodian Riel",
+    "symbol_native": "៛",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "KHR",
+    "name_plural": "Cambodian riels",
+    "facts": [
+      "The Cambodian Riel was introduced in 1953, replacing the French Indochinese Piastre.",
+      "The Riel is subdivided into 100 sen.",
+      "Cambodian banknotes feature images of cultural and historical landmarks."
+    ],
+    "flagcode": "kh"
+  },
+  "KZT": {
+    "symbol": "₸",
+    "name": "Kazakhstani Tenge",
+    "symbol_native": "₸",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "KZT",
+    "name_plural": "Kazakhstani tenges",
+    "facts": [
+      "The Kazakhstani Tenge was introduced in 1993, replacing the Soviet Ruble.",
+      "The Tenge is subdivided into 100 tiyn.",
+      "Kazakhstani banknotes feature images of cultural and historical landmarks."
+    ],
+    "flagcode": "kz"
+  },
+  "KRW": {
+    "symbol": "₩",
+    "name": "South Korean Won",
+    "symbol_native": "₩",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "KRW",
+    "name_plural": "South Korean won",
+    "facts": [
+      "The South Korean Won was introduced in 1945, replacing the Korean Yen.",
+      "The Won is subdivided into 100 jeon, though jeon coins are rarely used.",
+      "South Korean banknotes feature images of historical figures and cultural landmarks."
+    ],
+    "flagcode": "kr"
+  },
+  "KWD": {
+    "symbol": "KD",
+    "name": "Kuwaiti Dinar",
+    "symbol_native": "د.ك.‏",
+    "decimal_digits": 3,
+    "rounding": 0,
+    "code": "KWD",
+    "name_plural": "Kuwaiti dinars",
+    "facts": [
+      "The Kuwaiti Dinar is one of the highest-valued currencies in the world.",
+      "The Dinar is subdivided into 1,000 fils.",
+      "Kuwaiti banknotes feature images of cultural and historical landmarks."
+    ],
+    "flagcode": "kw"
+  },
+  "LBP": {
+    "symbol": "LB£",
+    "name": "Lebanese Pound",
+    "symbol_native": "ل.ل.‏",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "LBP",
+    "name_plural": "Lebanese pounds",
+    "facts": [
+      "The Lebanese Pound was introduced in 1924, replacing the Ottoman Lira.",
+      "The Pound is subdivided into 100 piastres, though piastre coins are rarely used.",
+      "Lebanese banknotes feature images of cultural and historical landmarks."
+    ],
+    "flagcode": "lb"
+  },
+  "LKR": {
+    "symbol": "SLRs",
+    "name": "Sri Lankan Rupee",
+    "symbol_native": "SL Re",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "LKR",
+    "name_plural": "Sri Lankan rupees",
+    "facts": [
+      "The Sri Lankan Rupee was introduced in 1872, replacing the Indian Rupee.",
+      "The Rupee is subdivided into 100 cents.",
+      "Sri Lankan banknotes feature images of cultural and historical landmarks."
+    ],
+    "flagcode": "lk"
+  },
+  "LYD": {
+    "symbol": "LD",
+    "name": "Libyan Dinar",
+    "symbol_native": "د.ل.‏",
+    "decimal_digits": 3,
+    "rounding": 0,
+    "code": "LYD",
+    "name_plural": "Libyan dinars",
+    "facts": [
+      "The Libyan Dinar was introduced in 1971, replacing the Libyan Pound.",
+      "The Dinar is subdivided into 1,000 dirhams.",
+      "Libyan banknotes feature images of cultural and historical landmarks."
+    ],
+    "flagcode": "ly"
+  },
+  "MAD": {
+    "symbol": "MAD",
+    "name": "Moroccan Dirham",
+    "symbol_native": "د.م.‏",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "MAD",
+    "name_plural": "Moroccan dirhams",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ma"
+  },
+  "MDL": {
+    "symbol": "MDL",
+    "name": "Moldovan Leu",
+    "symbol_native": "MDL",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "MDL",
+    "name_plural": "Moldovan lei",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "md"
+  },
+  "MGA": {
+    "symbol": "MGA",
+    "name": "Malagasy Ariary",
+    "symbol_native": "MGA",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "MGA",
+    "name_plural": "Malagasy Ariaries",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "mg"
+  },
+  "MKD": {
+    "symbol": "MKD",
+    "name": "Macedonian Denar",
+    "symbol_native": "MKD",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "MKD",
+    "name_plural": "Macedonian denari",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "mk"
+  },
+  "MMK": {
+    "symbol": "MMK",
+    "name": "Myanma Kyat",
+    "symbol_native": "K",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "MMK",
+    "name_plural": "Myanma kyats",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "mm"
+  },
+  "MNT": {
+    "symbol": "₮",
+    "name": "Mongolian Tugrik",
+    "symbol_native": "₮",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "MNT",
+    "name_plural": "Mongolian tugriks",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "mn"
+  },
+  "MOP": {
+    "symbol": "MOP$",
+    "name": "Macanese Pataca",
+    "symbol_native": "MOP$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "MOP",
+    "name_plural": "Macanese patacas",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "mo"
+  },
+  "MUR": {
+    "symbol": "MURs",
+    "name": "Mauritian Rupee",
+    "symbol_native": "MURs",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "MUR",
+    "name_plural": "Mauritian rupees",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "mu"
+  },
+  "MXN": {
+    "symbol": "MX$",
+    "name": "Mexican Peso",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "MXN",
+    "name_plural": "Mexican pesos",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "mx"
+  },
+  "MYR": {
+    "symbol": "RM",
+    "name": "Malaysian Ringgit",
+    "symbol_native": "RM",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "MYR",
+    "name_plural": "Malaysian ringgits",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "my"
+  },
+  "MZN": {
+    "symbol": "MTn",
+    "name": "Mozambican Metical",
+    "symbol_native": "MTn",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "MZN",
+    "name_plural": "Mozambican meticals",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "mz"
+  },
+  "NAD": {
+    "symbol": "N$",
+    "name": "Namibian Dollar",
+    "symbol_native": "N$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "NAD",
+    "name_plural": "Namibian dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "na"
+  },
+  "NGN": {
+    "symbol": "₦",
+    "name": "Nigerian Naira",
+    "symbol_native": "₦",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "NGN",
+    "name_plural": "Nigerian nairas",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ng"
+  },
+  "NIO": {
+    "symbol": "C$",
+    "name": "Nicaraguan Córdoba",
+    "symbol_native": "C$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "NIO",
+    "name_plural": "Nicaraguan córdobas",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ni"
+  },
+  "NOK": {
+    "symbol": "Nkr",
+    "name": "Norwegian Krone",
+    "symbol_native": "kr",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "NOK",
+    "name_plural": "Norwegian kroner",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "no"
+  },
+  "NPR": {
+    "symbol": "NPRs",
+    "name": "Nepalese Rupee",
+    "symbol_native": "नेरू",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "NPR",
+    "name_plural": "Nepalese rupees",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "np"
+  },
+  "NZD": {
+    "symbol": "NZ$",
+    "name": "New Zealand Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "NZD",
+    "name_plural": "New Zealand dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "nz"
+  },
+  "OMR": {
+    "symbol": "OMR",
+    "name": "Omani Rial",
+    "symbol_native": "ر.ع.‏",
+    "decimal_digits": 3,
+    "rounding": 0,
+    "code": "OMR",
+    "name_plural": "Omani rials",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "om"
+  },
+  "PAB": {
+    "symbol": "B/.",
+    "name": "Panamanian Balboa",
+    "symbol_native": "B/.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "PAB",
+    "name_plural": "Panamanian balboas",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "pa"
+  },
+  "PEN": {
+    "symbol": "S/.",
+    "name": "Peruvian Nuevo Sol",
+    "symbol_native": "S/.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "PEN",
+    "name_plural": "Peruvian nuevos soles",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "pe"
+  },
+  "PHP": {
+    "symbol": "₱",
+    "name": "Philippine Peso",
+    "symbol_native": "₱",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "PHP",
+    "name_plural": "Philippine pesos",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ph"
+  },
+  "PKR": {
+    "symbol": "₨",
+    "name": "Pakistani Rupee",
+    "symbol_native": "₨",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "PKR",
+    "name_plural": "Pakistani rupees",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "pk"
+  },
+  "PLN": {
+    "symbol": "zł",
+    "name": "Polish Zloty",
+    "symbol_native": "zł",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "PLN",
+    "name_plural": "Polish zlotys",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "pl"
+  },
+  "PYG": {
+    "symbol": "₲",
+    "name": "Paraguayan Guarani",
+    "symbol_native": "₲",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "PYG",
+    "name_plural": "Paraguayan guaranis",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "py"
+  },
+  "QAR": {
+    "symbol": "QR",
+    "name": "Qatari Rial",
+    "symbol_native": "ر.ق.‏",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "QAR",
+    "name_plural": "Qatari rials",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "qa"
+  },
+  "RON": {
+    "symbol": "RON",
+    "name": "Romanian Leu",
+    "symbol_native": "RON",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "RON",
+    "name_plural": "Romanian lei",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ro"
+  },
+  "RSD": {
+    "symbol": "din.",
+    "name": "Serbian Dinar",
+    "symbol_native": "дин.",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "RSD",
+    "name_plural": "Serbian dinars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "rs"
+  },
+  "RUB": {
+    "symbol": "RUB",
+    "name": "Russian Ruble",
+    "symbol_native": "₽.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "RUB",
+    "name_plural": "Russian rubles",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ru"
+  },
+  "RWF": {
+    "symbol": "RWF",
+    "name": "Rwandan Franc",
+    "symbol_native": "FR",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "RWF",
+    "name_plural": "Rwandan francs",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "rw"
+  },
+  "SAR": {
+    "symbol": "SR",
+    "name": "Saudi Riyal",
+    "symbol_native": "ر.س.‏",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "SAR",
+    "name_plural": "Saudi riyals",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "sa"
+  },
+  "SDG": {
+    "symbol": "SDG",
+    "name": "Sudanese Pound",
+    "symbol_native": "SDG",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "SDG",
+    "name_plural": "Sudanese pounds",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "sd"
+  },
+  "SEK": {
+    "symbol": "Skr",
+    "name": "Swedish Krona",
+    "symbol_native": "kr",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "SEK",
+    "name_plural": "Swedish kronor",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "se"
+  },
+  "SGD": {
+    "symbol": "S$",
+    "name": "Singapore Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "SGD",
+    "name_plural": "Singapore dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "sg"
+  },
+  "SOS": {
+    "symbol": "Ssh",
+    "name": "Somali Shilling",
+    "symbol_native": "Ssh",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "SOS",
+    "name_plural": "Somali shillings",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "so"
+  },
+  "SYP": {
+    "symbol": "SY£",
+    "name": "Syrian Pound",
+    "symbol_native": "ل.س.‏",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "SYP",
+    "name_plural": "Syrian pounds",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "sy"
+  },
+  "THB": {
+    "symbol": "฿",
+    "name": "Thai Baht",
+    "symbol_native": "฿",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "THB",
+    "name_plural": "Thai baht",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "th"
+  },
+  "TND": {
+    "symbol": "DT",
+    "name": "Tunisian Dinar",
+    "symbol_native": "د.ت.‏",
+    "decimal_digits": 3,
+    "rounding": 0,
+    "code": "TND",
+    "name_plural": "Tunisian dinars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "tn"
+  },
+  "TRY": {
+    "symbol": "TL",
+    "name": "Turkish Lira",
+    "symbol_native": "TL",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "TRY",
+    "name_plural": "Turkish Lira",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "tr"
+  },
+  "TTD": {
+    "symbol": "TT$",
+    "name": "Trinidad and Tobago Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "TTD",
+    "name_plural": "Trinidad and Tobago dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "tt"
+  },
+  "TWD": {
+    "symbol": "NT$",
+    "name": "New Taiwan Dollar",
+    "symbol_native": "NT$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "TWD",
+    "name_plural": "New Taiwan dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "tw"
+  },
+  "TZS": {
+    "symbol": "TSh",
+    "name": "Tanzanian Shilling",
+    "symbol_native": "TSh",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "TZS",
+    "name_plural": "Tanzanian shillings",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "tz"
+  },
+  "UAH": {
+    "symbol": "₴",
+    "name": "Ukrainian Hryvnia",
+    "symbol_native": "₴",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "UAH",
+    "name_plural": "Ukrainian hryvnias",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ua"
+  },
+  "UGX": {
+    "symbol": "USh",
+    "name": "Ugandan Shilling",
+    "symbol_native": "USh",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "UGX",
+    "name_plural": "Ugandan shillings",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ug"
+  },
+  "UYU": {
+    "symbol": "$U",
+    "name": "Uruguayan Peso",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "UYU",
+    "name_plural": "Uruguayan pesos",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "uy"
+  },
+  "UZS": {
+    "symbol": "UZS",
+    "name": "Uzbekistan Som",
+    "symbol_native": "UZS",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "UZS",
+    "name_plural": "Uzbekistan som",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "uz"
+  },
+  "VEF": {
+    "symbol": "Bs.F.",
+    "name": "Venezuelan Bolívar",
+    "symbol_native": "Bs.F.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "VEF",
+    "name_plural": "Venezuelan bolívars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ve"
+  },
+  "VND": {
+    "symbol": "₫",
+    "name": "Vietnamese Dong",
+    "symbol_native": "₫",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "VND",
+    "name_plural": "Vietnamese dong",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "vn"
+  },
+  "XAF": {
+    "symbol": "FCFA",
+    "name": "CFA Franc BEAC",
+    "symbol_native": "FCFA",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "XAF",
+    "name_plural": "CFA francs BEAC",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "cm"
+  },
+  "XOF": {
+    "symbol": "CFA",
+    "name": "CFA Franc BCEAO",
+    "symbol_native": "CFA",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "XOF",
+    "name_plural": "CFA francs BCEAO",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ci"
+  },
+  "YER": {
+    "symbol": "YR",
+    "name": "Yemeni Rial",
+    "symbol_native": "ر.ي.‏",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "YER",
+    "name_plural": "Yemeni rials",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ye"
+  },
+  "ZAR": {
+    "symbol": "R",
+    "name": "South African Rand",
+    "symbol_native": "R",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "ZAR",
+    "name_plural": "South African rand",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "za"
+  },
+  "ZWL": {
+    "symbol": "ZWL$",
+    "name": "Zimbabwean Dollar",
+    "symbol_native": "ZWL$",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "ZWL",
+    "name_plural": "Zimbabwean Dollar",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "zw"
+  },
+  "ANG": {
+    "symbol": "ƒ",
+    "name": "Netherlands Antillean Guilder",
+    "symbol_native": "ƒ",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "ANG",
+    "name_plural": "Netherlands Antillean guilders",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "cw"
+  },
+  "AWG": {
+    "symbol": "Afl.",
+    "name": "Aruban Florin",
+    "symbol_native": "Afl.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "AWG",
+    "name_plural": "Aruban florins",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "aw"
+  },
+  "BBD": {
+    "symbol": "Bds$",
+    "name": "Barbadian Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "BBD",
+    "name_plural": "Barbadian dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "bb"
+  },
+  "BSD": {
+    "symbol": "B$",
+    "name": "Bahamian Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "BSD",
+    "name_plural": "Bahamian dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "bs"
+  },
+  "BTC": {
+    "symbol": "₿",
+    "name": "Bitcoin",
+    "symbol_native": "₿",
+    "decimal_digits": 8,
+    "rounding": 0,
+    "code": "BTC",
+    "name_plural": "Bitcoins",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "bitcoin-btc-"
+  },
+  "BTN": {
+    "symbol": "Nu.",
+    "name": "Bhutanese Ngultrum",
+    "symbol_native": "Nu.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "BTN",
+    "name_plural": "Bhutanese ngultrums",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "bt"
+  },
+
+  "CNH": {
+    "symbol": "CNH",
+    "name": "Chinese Yuan (Offshore)",
+    "symbol_native": "CNH",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "CNH",
+    "name_plural": "Chinese yuan (offshore)",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "cn"
+  },
+  "CUC": {
+    "symbol": "CUC$",
+    "name": "Cuban Convertible Peso",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "CUC",
+    "name_plural": "Cuban convertible pesos",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "cu"
+  },
+  "CUP": {
+    "symbol": "CUP$",
+    "name": "Cuban Peso",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "CUP",
+    "name_plural": "Cuban pesos",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "cu"
+  },
+  "FJD": {
+    "symbol": "FJ$",
+    "name": "Fijian Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "FJD",
+    "name_plural": "Fijian dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "fj"
+  },
+  "FKP": {
+    "symbol": "FK£",
+    "name": "Falkland Islands Pound",
+    "symbol_native": "£",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "FKP",
+    "name_plural": "Falkland Islands pounds",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "fk"
+  },
+  "GGP": {
+    "symbol": "£",
+    "name": "Guernsey Pound",
+    "symbol_native": "£",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "GGP",
+    "name_plural": "Guernsey pounds",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "gg"
+  },
+  "GIP": {
+    "symbol": "£",
+    "name": "Gibraltar Pound",
+    "symbol_native": "£",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "GIP",
+    "name_plural": "Gibraltar pounds",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "gi"
+  },
+  "GMD": {
+    "symbol": "D",
+    "name": "Gambian Dalasi",
+    "symbol_native": "D",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "GMD",
+    "name_plural": "Gambian dalasis",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "gm"
+  },
+  "GYD": {
+    "symbol": "G$",
+    "name": "Guyanaese Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "GYD",
+    "name_plural": "Guyanaese dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "gy"
+  },
+  "HTG": {
+    "symbol": "G",
+    "name": "Haitian Gourde",
+    "symbol_native": "G",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "HTG",
+    "name_plural": "Haitian gourdes",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ht"
+  },
+  "IMP": {
+    "symbol": "£",
+    "name": "Manx pound",
+    "symbol_native": "£",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "IMP",
+    "name_plural": "Manx pounds",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "im"
+  },
+  "JEP": {
+    "symbol": "£",
+    "name": "Jersey Pound",
+    "symbol_native": "£",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "JEP",
+    "name_plural": "Jersey pounds",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "je"
+  },
+  "KGS": {
+    "symbol": "сом",
+    "name": "Kyrgystani Som",
+    "symbol_native": "сом",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "KGS",
+    "name_plural": "Kyrgystani soms",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "kg"
+  },
+  "KPW": {
+    "symbol": "₩",
+    "name": "North Korean Won",
+    "symbol_native": "₩",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "KPW",
+    "name_plural": "North Korean won",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "kp"
+  },
+  "KYD": {
+    "symbol": "CI$",
+    "name": "Cayman Islands Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "KYD",
+    "name_plural": "Cayman Islands dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ky"
+  },
+  "LAK": {
+    "symbol": "₭",
+    "name": "Laotian Kip",
+    "symbol_native": "₭",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "LAK",
+    "name_plural": "Laotian kips",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "la"
+  },
+  "LRD": {
+    "symbol": "L$",
+    "name": "Liberian Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "LRD",
+    "name_plural": "Liberian dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "lr"
+  },
+  "LSL": {
+    "symbol": "L",
+    "name": "Lesotho Loti",
+    "symbol_native": "L",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "LSL",
+    "name_plural": "Lesotho lotis",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ls"
+  },
+
+  "MRU": {
+    "symbol": "UM",
+    "name": "Mauritanian Ouguiya",
+    "symbol_native": "UM",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "MRU",
+    "name_plural": "Mauritanian ouguiyas",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "mr"
+  },
+  "MVR": {
+    "symbol": "Rf",
+    "name": "Maldivian Rufiyaa",
+    "symbol_native": "Rf",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "MVR",
+    "name_plural": "Maldivian rufiyaas",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "mv"
+  },
+  "MWK": {
+    "symbol": "MK",
+    "name": "Malawian Kwacha",
+    "symbol_native": "MK",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "MWK",
+    "name_plural": "Malawian kwachas",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "mw"
+  },
+  "PGK": {
+    "symbol": "K",
+    "name": "Papua New Guinean Kina",
+    "symbol_native": "K",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "PGK",
+    "name_plural": "Papua New Guinean kina",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "pg"
+  },
+  "SBD": {
+    "symbol": "SI$",
+    "name": "Solomon Islands Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "SBD",
+    "name_plural": "Solomon Islands dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "sb"
+  },
+  "SCR": {
+    "symbol": "SR",
+    "name": "Seychellois Rupee",
+    "symbol_native": "SR",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "SCR",
+    "name_plural": "Seychellois rupees",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "sc"
+  },
+  "SHP": {
+    "symbol": "£",
+    "name": "Saint Helena Pound",
+    "symbol_native": "£",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "SHP",
+    "name_plural": "Saint Helena pounds",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "sh"
+  },
+  "SLL": {
+    "symbol": "Le",
+    "name": "Sierra Leonean Leone",
+    "symbol_native": "Le",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "SLL",
+    "name_plural": "Sierra Leonean leones",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "sl"
+  },
+  "SRD": {
+    "symbol": "$",
+    "name": "Surinamese Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "SRD",
+    "name_plural": "Surinamese dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "sr"
+  },
+  "SSP": {
+    "symbol": "£",
+    "name": "South Sudanese Pound",
+    "symbol_native": "£",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "SSP",
+    "name_plural": "South Sudanese pounds",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ss"
+  },
+  "STN": {
+    "symbol": "Db",
+    "name": "São Tomé and Príncipe Dobra",
+    "symbol_native": "Db",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "STN",
+    "name_plural": "São Tomé and Príncipe dobras",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "st"
+  },
+  "SVC": {
+    "symbol": "₡",
+    "name": "Salvadoran Colón",
+    "symbol_native": "₡",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "SVC",
+    "name_plural": "Salvadoran colóns",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "sv"
+  },
+  "SZL": {
+    "symbol": "E",
+    "name": "Swazi Lilangeni",
+    "symbol_native": "E",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "SZL",
+    "name_plural": "Swazi emalangeni",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "sz"
+  },
+  "TJS": {
+    "symbol": "SM",
+    "name": "Tajikistani Somoni",
+    "symbol_native": "СМ",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "TJS",
+    "name_plural": "Tajikistani somonis",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "tj"
+  },
+  "TMT": {
+    "symbol": "T",
+    "name": "Turkmenistani Manat",
+    "symbol_native": "T",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "TMT",
+    "name_plural": "Turkmenistani manats",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "tm"
+  },
+  "VUV": {
+    "symbol": "VT",
+    "name": "Vanuatu Vatu",
+    "symbol_native": "VT",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "VUV",
+    "name_plural": "Vanuatu vatus",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "vu"
+  },
+  "WST": {
+    "symbol": "WS$",
+    "name": "Samoan Tala",
+    "symbol_native": "WS$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "WST",
+    "name_plural": "Samoan tala",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "ws"
+  },
+  "XAG": {
+    "symbol": "XAG",
+    "name": "Silver Ounce",
+    "symbol_native": "XAG",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "XAG",
+    "name_plural": "Silver ounces",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "#c0c0c0"
+  },
+  "XAU": {
+    "symbol": "XAU",
+    "name": "Gold Ounce",
+    "symbol_native": "XAU",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "XAU",
+    "name_plural": "Gold ounces",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "#ffd700"
+  },
+  "XCD": {
+    "symbol": "EC$",
+    "name": "East Caribbean Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "XCD",
+    "name_plural": "East Caribbean dollars",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "kn"
+  },
+  "XDR": {
+    "symbol": "SDR",
+    "name": "Special Drawing Rights",
+    "symbol_native": "SDR",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "XDR",
+    "name_plural": "Special drawing rights",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "un"
+  },
+  "XPD": {
+    "symbol": "XPD",
+    "name": "Palladium Ounce",
+    "symbol_native": "XPD",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "XPD",
+    "name_plural": "Palladium ounces",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "#b1b1b1"
+  },
+  "XPF": {
+    "symbol": "CFP",
+    "name": "CFP Franc",
+    "symbol_native": "CFP",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "XPF",
+    "name_plural": "CFP francs",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "pf"
+  },
+  "XPT": {
+    "symbol": "XPT",
+    "name": "Platinum Ounce",
+    "symbol_native": "XPT",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "XPT",
+    "name_plural": "Platinum ounces",
+    "facts": ["", "", "", "", ""],
+    "flagcode": "#e5e4e2"
+  },
+  "AOA": {
+    "symbol": "Kz",
+    "name": "Angolan Kwanza",
+    "symbol_native": "Kz",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "AOA",
+    "name_plural": "Angolan kwanzas",
+    "facts": [
+      "The Angolan Kwanza was introduced in 1977, replacing the Escudo.",
+      "The Kwanza is subdivided into 100 cêntimos.",
+      "Angolan banknotes feature images of national heroes and landmarks."
+    ],
+    "flagcode": "ao"
+  },
+  "BMD": {
+    "symbol": "BD$",
+    "name": "Bermudan Dollar",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "code": "BMD",
+    "name_plural": "Bermudan dollars",
+    "facts": [
+      "The Bermudan Dollar is pegged to the US Dollar at a 1:1 ratio.",
+      "Bermuda's banknotes feature images of local wildlife and landmarks.",
+      "The Bermudan Dollar was introduced in 1970, replacing the Bermudian Pound."
+    ],
+    "flagcode": "bm"
+  },
+  "CUR": {
+    "symbol": "CUR",
+    "name": "Placeholder Currency",
+    "symbol_native": "CUR",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "code": "CUR",
+    "name_plural": "Placeholder currencies",
+    "facts": [
+      "This is a placeholder currency used for selection purposes.",
+      "It does not represent any real-world currency.",
+      "It is used in examples and documentation to illustrate currency formats."
+    ],
+    "flagcode": "xx"
+  }
+}

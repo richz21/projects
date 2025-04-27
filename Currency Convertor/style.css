@@ -1,0 +1,285 @@
+@import url("https://fonts.googleapis.com/css2?family=Chokokutai&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Mono&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  font-family: "VT323", monospace;
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+  color: #fff;
+  font-size: 30px;
+  line-height: 1.5;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vmin;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #e58b00;
+}
+header {
+  width: 100%;
+  margin-bottom: 20px;
+  background-color: rgba(19, 19, 19, 0.2);
+  transition: all 1s ease-in-out;
+  line-height: 2;
+}
+header p {
+  margin-top: 1.5vh;
+}
+header:hover {
+  background-color: rgba(19, 19, 19, 0.4);
+
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='20' height='30'><text x='0' y='30' font-size='25' font-weight='bold' fill='gold'>₹</text></svg>")
+      10 10,
+    pointer;
+}
+header:hover p {
+  color: #6faada;
+  animation: glowPulse 1s infinite 0.5s alternate;
+}
+@keyframes glowPulse {
+  from {
+    text-shadow: 0 0 0.2px #fff, 0 0 0.2px #fff;
+  }
+  to {
+    text-shadow: 0 0 3px #fff, 0 0 2px #fff;
+  }
+}
+a:hover {
+  color: steelblue;
+}
+a {
+  color: white;
+}
+.original-surfer-regular,
+.chokokutai-regular {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: opacity 0.7s ease-in;
+}
+.original-surfer-regular {
+  opacity: 1;
+}
+.chokokutai-regular {
+  opacity: 0;
+}
+header:hover .original-surfer-regular {
+  opacity: 0;
+}
+header:hover .chokokutai-regular {
+  opacity: 1;
+}
+
+footer {
+  background-color: #131313;
+  width: 100%;
+
+  font-size: 1.1rem;
+}
+.pt-mono-regular {
+  font-family: "PT Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.chokokutai-regular {
+  font-family: "Chokokutai", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2.9rem;
+}
+.original-surfer-regular {
+  font-family: "Original Surfer", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.vt323-regular {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  text-align: center;
+}
+i {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+}
+option {
+  font-family: "PT Mono", monospace;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: left;
+}
+
+input {
+  font-family: "PT Mono", monospace;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: left;
+}
+.container {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  align-items: center;
+  padding: 0 20px 0 20px;
+  width: 100%;
+  flex: 1;
+
+  /* height: 100%; */
+}
+
+.from,
+.to {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Stretch children to match the tallest element */
+  flex-wrap: wrap; /* Allow wrapping for smaller screens */
+  gap: 10px; /* Add spacing between elements */
+  margin-bottom: 1.5%;
+  margin-top: 1.5%;
+}
+
+select,
+input[type="number"] {
+  font-weight: 700;
+  text-align: left;
+  flex-grow: 1;
+
+  width: auto; /* Allow inputs to take full width */
+  font-size: 15px;
+  /* Add spacing between elements */
+  padding: 5px; /* Add padding for better usability */
+  height: auto; /* Prevent stretching */
+  align-self: center; /* Center-align within the container */
+}
+input[type="number"] {
+  width: 32%;
+  border: 1px solid #ccc;
+  min-width: 220px;
+}
+
+.footer-class {
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: space-around;
+  flex-direction: row;
+  padding: 10px 0px 0 0px;
+}
+.flag-img {
+  width: 50px;
+  height: auto;
+  display: flex;
+  align-items: center;
+
+  margin-right: 5px;
+}
+.no-wrap,
+.no-wrap2 {
+  white-space: nowrap;
+}
+.no-wrap2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.currency {
+  width: 5ch; /* Set width to fit 5 characters */
+  text-align: center; /* Center-align the text */
+  align-self: center; /* Center-align within the container */
+  display: inline-block; /* Ensure proper alignment */
+}
+
+.exchange-container {
+  width: 75%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 0 20px 0 20px;
+  width: 100%;
+  margin-bottom: 1.5%;
+}
+@media (max-width: 900px) {
+  header {
+    height: 190px;
+    display: flex;
+    flex-direction: column;
+
+    flex-shrink: 0;
+  }
+  header p {
+    color: #6faada;
+  }
+
+  .wrap-in-portrait {
+    white-space: wrap;
+    font-size: 1.3rem;
+    align-self: center;
+    line-height: 1;
+    margin-top: 20px;
+  }
+  select {
+    max-width: 47ch;
+  }
+  input[type="number"] {
+    width: 27ch;
+  }
+  footer {
+    margin-top: 10px;
+  }
+}
+ul {
+  list-style-position: inside;
+}
+li {
+  text-align: left;
+}
+
+.msg {
+  width: fit-content;
+  background-color: rgba(19, 19, 19, 0.3);
+
+  padding-left: 5px;
+  padding-right: 8px;
+  border-radius: 10px;
+  transition: all 0.6s ease-in;
+}
+.msg:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #131313;
+
+  cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='20' height='30'><text x='0' y='30' font-size='25' font-weight='bold' fill='gold'>₹</text></svg>")
+      10 10,
+    pointer;
+}
+#result {
+  font-size: 1.7rem;
+  margin-bottom: 10px;
+}
+.facts {
+  font-size: 1.5rem;
+  padding: 10px;
+  padding-top: 5px;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
